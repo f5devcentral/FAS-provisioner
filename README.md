@@ -1,5 +1,7 @@
 # F5 SANDBOX PROVISIONER
 
+IMPORTANT NOTE: This GitHub repository is no longer being maintained or updated. The content is available as-is, and while it's still accessible, it may contain outdated or obsolete information.
+
 ## Overview
 The F5 Sandbox Provisioner is a part of the Solution Sandbox. This is a scenario based demo environment to help users learn about how F5 delivers Application Services to improve security and performance
 
